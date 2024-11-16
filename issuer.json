@@ -1,4 +1,5 @@
 {
+  "@context": "https://w3id.org/openbadges/v2",
   "id": "https://raw.githubusercontent.com/arviansyah-cmd/open-badge/refs/heads/main/issuer.json",
   "type": "Issuer",
   "name": "Adobe Academy",
