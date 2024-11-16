@@ -1,16 +1,16 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://arviansyah-cmd.github.io/open-badge/badge.json",
+  "id": "https://github.com/arviansyah-cmd/open-badge/blob/main/badge.json",
   "name": "Certified Adobe Premiere Po",
   "description": "This badge is awarded to individuals who demonstrate the ability to pass the Adobe Premiere Pro skills test.",
-  "image": "https://username.github.io/open-badge/badge.png",
-  "criteria": "https://arviansyah-cmd.github.io/open-badge/criteria.html",
+  "image": "https://github.com/arviansyah-cmd/open-badge/blob/main/Certificate%20Adobe%20Premiere%20Pro.png",
+  "criteria": "https://github.com/arviansyah-cmd/open-badge/blob/main/criteria.html",
   "issuer": {
-    "id": "https://arviansyah-cmd.github.io/open-badge/issuer.json",
+    "id": "https://github.com/arviansyah-cmd/open-badge/blob/main/issuer.json",
     "type": "Issuer",
     "name": "Adobe",
-    "url": "https://arviansyah-cmd.github.io",
+    "url": "https://github.com/arviansyah-cmd",
     "email": "arayarvians@gmail.com"
   }
 }
