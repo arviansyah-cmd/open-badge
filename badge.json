@@ -6,11 +6,5 @@
   "description": "This badge is awarded to individuals who demonstrate the ability to pass the Adobe Premiere Pro skills test.",
   "image": "https://raw.githubusercontent.com/arviansyah-cmd/open-badge/refs/heads/main/badge.png",
   "criteria": "https://raw.githubusercontent.com/arviansyah-cmd/open-badge/refs/heads/main/criteria.html",
-  "issuer": {
-    "id": "https://raw.githubusercontent.com/arviansyah-cmd/open-badge/refs/heads/main/issuer.json",
-    "type": "Issuer",
-    "name": "Adobe",
-    "url": "https://github.com/arviansyah-cmd",
-    "email": "arayarvians@gmail.com"
-  }
+  "issuer": "https://raw.githubusercontent.com/arviansyah-cmd/open-badge/refs/heads/main/issuer.json"
 }
