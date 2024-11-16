@@ -1,5 +1,5 @@
 {
-  "id": "https://github.com/arviansyah-cmd/open-badge/blob/main/issuer.json",
+  "id": "https://raw.githubusercontent.com/arviansyah-cmd/open-badge/refs/heads/main/issuer.json",
   "type": "Issuer",
   "name": "Adobe Academy",
   "description": "Center for multimedia training and professional skills development, with a focus on editing software such as Adobe Premiere Pro.",
